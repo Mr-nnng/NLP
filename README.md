@@ -11,6 +11,8 @@
 
 BELLE项目：https://github.com/LianjiaTech/BELLE
 
+ChatGPT生成的中文语料：https://github.com/PlexPt/chatgpt-corpus
+
 中文微调数据集：https://huggingface.co/datasets/YeungNLP/firefly-train-1.1M
 
 ChatGPT生成的数学题和解答(school_math_0.25M)：https://huggingface.co/datasets/BelleGroup/school_math_0.25M
