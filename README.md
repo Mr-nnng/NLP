@@ -20,3 +20,5 @@ ChatGPT生成的数学题和解答(school_math_0.25M)：https://huggingface.co/d
 EduChat的训练语料库（ecnu-icalk/educhat-sft-002-data-osm）：https://huggingface.co/datasets/ecnu-icalk/educhat-sft-002-data-osm
 
 Awesome-Chinese-LLM项目：https://github.com/HqWu-HITCS/Awesome-Chinese-LLM#%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%9B%86
+
+教育领域多轮对话数据集（桃李）：https://github.com/blcuicall/taoli
